@@ -7,7 +7,7 @@
 ### In more detail, my areas of expertise include:
 Front-end Development with JavaScript, TypeScript, React.js, Redux, Bootstrap, Material-UI, SCSS, animation, and accessibility
 
-• HTML 5, CSS3, Jquery, LESS, SASS, Github, bootstrap, BEM, PHP, photoshop. <br>
+• HTML 5, CSS3, Jquery, LESS, SASS, Github, BEM, PHP, photoshop. <br>
 • Layout cross-browser, valid, adaptive. Only clean and understandable code.<br>
 • Layout from PSD, Sketch, Figma, Zeplin, Adobe XD. <br>
 • Adaptability, responsiveness , rubber. <br>
