@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### I am currently completing a training program in Full Stack Development and DevOps at Integrify with mentoring from experienced industry professionals.
+### I am currently working as Software Engineer
 
-### I am also pursuing an official program in collaboration with AWS re/Start to receive a certification as an AWS Cloud Practitioner.
+### Certified Google Cloud developer
 
 ### In more detail, my areas of expertise include:
 Front-end Development with JavaScript, TypeScript, React.js, Redux, Bootstrap, Material-UI, SCSS, animation, and accessibility
@@ -12,8 +12,6 @@ Back-end develpment on Java.
 • Code maintenance, problem solving, server/environment maintenance,computer networking<br>
 •  Oracle PL/SQL , Jenkins.<br>
 
-
-## I am confident in my abilities and eager to prove myself as a valuable addition to your development team!:muscle::muscle::muscle:
 
 ### My credo - Love the daily grind and strive on difficulties.
 
