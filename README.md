@@ -5,7 +5,7 @@
 ### Certified Google Cloud developer
 
 ### In more detail, my areas of expertise include:
-Front-end Development with JavaScript, TypeScript, React.js, Redux, Bootstrap, Material-UI, Gulp, SCSS, animation, and accessibility
+Front-end Development with JavaScript, TypeScript, React.js, Redux, Bootstrap, Material-UI, Vite, Gulp,  SCSS, animation, and accessibility
 Back-end develpment on Java.<br>
 • HTML 5, CSS3, Jquery, LESS, SASS, Github, BEM, PHP, photoshop. <br>
 • Layout cross-browser, valid, adaptive. Only clean and understandable code.<br>
